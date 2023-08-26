@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Aniket2131
-- 👀 I’m interested in Blockchain, Cryptography, technical analysis and some robotics stuf.
-- 🌱 I’m currently learning react and strengthening my blockchain development skills.
-- 💞️ I’m looking to collaborate on blockchain projects.
-
-<!---
-Aniket2131/Aniket2131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Aniket2131's GitHub | Stats](https://stats.quine.sh/Aniket2131/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Aniket2131)
